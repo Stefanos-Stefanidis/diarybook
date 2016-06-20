@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 7
+target
+
+K 13
+svn:mergeinfo
+V 188
+/branches/Refactor dev-issue 1-2-20-31:265-275
+/branches/dev-issue-1-2-18-20-31-19:186-213
+/branches/dev-issue-3:160-162,179-211
+/branches/dev-issue-6:208-217
+/branches/dev-issue-7:206-221
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_mixer
+END
+libinteger_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_mixer/libinteger_mixer_plugin.dll
+END
+libfloat_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_mixer/libfloat_mixer_plugin.dll
+END

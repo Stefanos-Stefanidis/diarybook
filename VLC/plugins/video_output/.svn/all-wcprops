@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output
+END
+libwingdi_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libwingdi_plugin.dll
+END
+libdirect3d_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libdirect3d_plugin.dll
+END
+libdrawable_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libdrawable_plugin.dll
+END
+libvdummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libvdummy_plugin.dll
+END
+libyuv_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libyuv_plugin.dll
+END
+libvmem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libvmem_plugin.dll
+END
+libglwin32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libglwin32_plugin.dll
+END
+libcaca_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libcaca_plugin.dll
+END
+libdirectdraw_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/video_output/libdirectdraw_plugin.dll
+END

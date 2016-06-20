@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/161/trunk/VLC/plugins/codec
+END
+libcrystalhd_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libcrystalhd_plugin.dll
+END
+liblibmpeg2_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/liblibmpeg2_plugin.dll
+END
+libflac_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libflac_plugin.dll
+END
+libscte27_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libscte27_plugin.dll
+END
+libtwolame_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libtwolame_plugin.dll
+END
+libsvcdsub_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libsvcdsub_plugin.dll
+END
+libmpeg_audio_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libmpeg_audio_plugin.dll
+END
+libschroedinger_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libschroedinger_plugin.dll
+END
+libg711_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libg711_plugin.dll
+END
+libdmo_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libdmo_plugin.dll
+END
+libtheora_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libtheora_plugin.dll
+END
+libspeex_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libspeex_plugin.dll
+END
+libdxva2_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libdxva2_plugin.dll
+END
+libpng_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libpng_plugin.dll
+END
+liba52_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/liba52_plugin.dll
+END
+libsubsdec_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libsubsdec_plugin.dll
+END
+libaraw_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libaraw_plugin.dll
+END
+libdts_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libdts_plugin.dll
+END
+liblpcm_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/liblpcm_plugin.dll
+END
+libquicktime_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libquicktime_plugin.dll
+END
+libcdg_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libcdg_plugin.dll
+END
+libddummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libddummy_plugin.dll
+END
+libedummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libedummy_plugin.dll
+END
+libstl_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libstl_plugin.dll
+END
+libx264_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libx264_plugin.dll
+END
+libavcodec_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libavcodec_plugin.dll
+END
+libvorbis_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libvorbis_plugin.dll
+END
+libuleaddvaudio_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libuleaddvaudio_plugin.dll
+END
+libzvbi_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libzvbi_plugin.dll
+END
+liblibass_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/liblibass_plugin.dll
+END
+librawvideo_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/librawvideo_plugin.dll
+END
+libspudec_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libspudec_plugin.dll
+END
+libkate_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libkate_plugin.dll
+END
+libadpcm_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libadpcm_plugin.dll
+END
+libdvbsub_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libdvbsub_plugin.dll
+END
+libcc_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libcc_plugin.dll
+END
+libopus_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libopus_plugin.dll
+END
+libcvdsub_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libcvdsub_plugin.dll
+END
+libt140_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libt140_plugin.dll
+END
+libsubsusf_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libsubsusf_plugin.dll
+END
+libfaad_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libfaad_plugin.dll
+END
+libaes3_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/codec/libaes3_plugin.dll
+END

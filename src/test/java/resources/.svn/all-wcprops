@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/365/trunk/src/test/java/resources
+END
+testImg2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/365/trunk/src/test/java/resources/testImg2.jpg
+END
+testVideo.mp4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/293/trunk/src/test/java/resources/testVideo.mp4
+END
+testImg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/293/trunk/src/test/java/resources/testImg.jpg
+END

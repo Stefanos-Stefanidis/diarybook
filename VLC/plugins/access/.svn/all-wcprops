@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/161/trunk/VLC/plugins/access
+END
+libsdp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libsdp_plugin.dll
+END
+libshm_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libshm_plugin.dll
+END
+libtimecode_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libtimecode_plugin.dll
+END
+libcdda_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libcdda_plugin.dll
+END
+libdtv_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libdtv_plugin.dll
+END
+liblive555_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/161/trunk/VLC/plugins/access/liblive555_plugin.dll
+END
+libaccess_http_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_http_plugin.dll
+END
+libzip_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libzip_plugin.dll
+END
+libaccess_smb_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_smb_plugin.dll
+END
+libidummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libidummy_plugin.dll
+END
+libstream_filter_rar_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libstream_filter_rar_plugin.dll
+END
+libaccess_rar_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_rar_plugin.dll
+END
+librtp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/access/librtp_plugin.dll
+END
+libaccess_bd_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_bd_plugin.dll
+END
+libaccess_tcp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_tcp_plugin.dll
+END
+libaccess_imem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_imem_plugin.dll
+END
+libdvdread_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libdvdread_plugin.dll
+END
+libaccess_udp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_udp_plugin.dll
+END
+libaccess_attachment_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_attachment_plugin.dll
+END
+libaccess_ftp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_ftp_plugin.dll
+END
+libaccess_vdr_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_vdr_plugin.dll
+END
+libvcd_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libvcd_plugin.dll
+END
+libaccess_mms_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_mms_plugin.dll
+END
+libaccess_realrtsp_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libaccess_realrtsp_plugin.dll
+END
+libscreen_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libscreen_plugin.dll
+END
+libdvdnav_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libdvdnav_plugin.dll
+END
+libdshow_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libdshow_plugin.dll
+END
+libfilesystem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/access/libfilesystem_plugin.dll
+END
+liblibbluray_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/161/trunk/VLC/plugins/access/liblibbluray_plugin.dll
+END

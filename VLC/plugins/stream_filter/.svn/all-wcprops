@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/161/trunk/VLC/plugins/stream_filter
+END
+libsmooth_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/161/trunk/VLC/plugins/stream_filter/libsmooth_plugin.dll
+END
+librecord_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/161/trunk/VLC/plugins/stream_filter/librecord_plugin.dll
+END
+libhttplive_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/161/trunk/VLC/plugins/stream_filter/libhttplive_plugin.dll
+END
+libdash_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/stream_filter/libdash_plugin.dll
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output
+END
+libamem_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output/libamem_plugin.dll
+END
+libafile_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output/libafile_plugin.dll
+END
+libdirectsound_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output/libdirectsound_plugin.dll
+END
+libmmdevice_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output/libmmdevice_plugin.dll
+END
+libwaveout_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output/libwaveout_plugin.dll
+END
+libadummy_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_output/libadummy_plugin.dll
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter
+END
+liba52tospdif_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/liba52tospdif_plugin.dll
+END
+libdtstospdif_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libdtstospdif_plugin.dll
+END
+liba52tofloat32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/liba52tofloat32_plugin.dll
+END
+libsimple_channel_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libsimple_channel_mixer_plugin.dll
+END
+libparam_eq_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libparam_eq_plugin.dll
+END
+libspatializer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libspatializer_plugin.dll
+END
+libstereo_widen_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libstereo_widen_plugin.dll
+END
+libheadphone_channel_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libheadphone_channel_mixer_plugin.dll
+END
+libdtstofloat32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libdtstofloat32_plugin.dll
+END
+libugly_resampler_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libugly_resampler_plugin.dll
+END
+libnormvol_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libnormvol_plugin.dll
+END
+libcompressor_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libcompressor_plugin.dll
+END
+libscaletempo_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libscaletempo_plugin.dll
+END
+libsamplerate_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libsamplerate_plugin.dll
+END
+libspeex_resampler_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libspeex_resampler_plugin.dll
+END
+libdolby_surround_decoder_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libdolby_surround_decoder_plugin.dll
+END
+libequalizer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libequalizer_plugin.dll
+END
+libchorus_flanger_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libchorus_flanger_plugin.dll
+END
+libremap_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libremap_plugin.dll
+END
+libtrivial_channel_mixer_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libtrivial_channel_mixer_plugin.dll
+END
+libmono_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libmono_plugin.dll
+END
+libaudiobargraph_a_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libaudiobargraph_a_plugin.dll
+END
+libaudio_format_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libaudio_format_plugin.dll
+END
+libmpgatofixed32_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libmpgatofixed32_plugin.dll
+END
+libkaraoke_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libkaraoke_plugin.dll
+END
+libgain_plugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/VLC/plugins/audio_filter/libgain_plugin.dll
+END

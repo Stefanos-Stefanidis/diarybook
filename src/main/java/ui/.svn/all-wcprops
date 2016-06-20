@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/425/trunk/src/main/java/ui
+END
+LoginForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/402/trunk/src/main/java/ui/LoginForm.java
+END
+PersonalGoalForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/410/trunk/src/main/java/ui/PersonalGoalForm.form
+END
+momentsframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/402/trunk/src/main/java/ui/momentsframe.java
+END
+showImagePersonalGoalForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/419/trunk/src/main/java/ui/showImagePersonalGoalForm.form
+END
+IMyDiaryBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/402/trunk/src/main/java/ui/IMyDiaryBook.java
+END
+ResetPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/402/trunk/src/main/java/ui/ResetPassword.java
+END
+NewEntryView.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/419/trunk/src/main/java/ui/NewEntryView.java
+END
+DeleteFavorites.form
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/402/trunk/src/main/java/ui/DeleteFavorites.form
+END
+ChangePassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/402/trunk/src/main/java/ui/ChangePassword.java
+END
+RegisterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/402/trunk/src/main/java/ui/RegisterForm.java
+END
+FavoritesForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/402/trunk/src/main/java/ui/FavoritesForm.form
+END
+DeleteImportantMomentsForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/385/trunk/src/main/java/ui/DeleteImportantMomentsForm.form
+END
+PersonalGoalForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/413/trunk/src/main/java/ui/PersonalGoalForm.java
+END
+MyDiaryBook.form
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/425/trunk/src/main/java/ui/MyDiaryBook.form
+END
+showImagePersonalGoalForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/419/trunk/src/main/java/ui/showImagePersonalGoalForm.java
+END
+LoginForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/388/trunk/src/main/java/ui/LoginForm.form
+END
+momentsframe.form
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/385/trunk/src/main/java/ui/momentsframe.form
+END
+INewEntryView.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/365/trunk/src/main/java/ui/INewEntryView.java
+END
+IRegisterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/170/trunk/src/main/java/ui/IRegisterForm.java
+END
+IPersonalGoalForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/300/trunk/src/main/java/ui/IPersonalGoalForm.java
+END
+DeleteFavorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/402/trunk/src/main/java/ui/DeleteFavorites.java
+END
+FavoritesForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/402/trunk/src/main/java/ui/FavoritesForm.java
+END
+DeleteImportantMomentsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/402/trunk/src/main/java/ui/DeleteImportantMomentsForm.java
+END
+ResetPassword.form
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/385/trunk/src/main/java/ui/ResetPassword.form
+END
+NewEntryView.form
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/402/trunk/src/main/java/ui/NewEntryView.form
+END
+MyDiaryBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/425/trunk/src/main/java/ui/MyDiaryBook.java
+END
+ChangePassword.form
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/378/trunk/src/main/java/ui/ChangePassword.form
+END
+RegisterForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/388/trunk/src/main/java/ui/RegisterForm.form
+END

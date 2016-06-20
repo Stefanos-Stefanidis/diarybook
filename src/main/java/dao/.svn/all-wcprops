@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/419/trunk/src/main/java/dao
+END
+PersonalGoalListDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/410/trunk/src/main/java/dao/PersonalGoalListDao.java
+END
+PersonalGoalTxtDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/410/trunk/src/main/java/dao/PersonalGoalTxtDao.java
+END
+PersonalGoalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/410/trunk/src/main/java/dao/PersonalGoalDao.java
+END
+PersonalGoalImageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/410/trunk/src/main/java/dao/PersonalGoalImageDao.java
+END
+LoginFormDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/402/trunk/src/main/java/dao/LoginFormDao.java
+END
+CheckIfFileExistsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/413/trunk/src/main/java/dao/CheckIfFileExistsDao.java
+END
+ViewFavoritesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/385/trunk/src/main/java/dao/ViewFavoritesDao.java
+END
+IPersonalGoalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/410/trunk/src/main/java/dao/IPersonalGoalDao.java
+END
+EntryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/378/trunk/src/main/java/dao/EntryDao.java
+END
+NewEntryVideoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/405/trunk/src/main/java/dao/NewEntryVideoDao.java
+END
+FilesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/419/trunk/src/main/java/dao/FilesDao.java
+END
+FavoritesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/385/trunk/src/main/java/dao/FavoritesDao.java
+END
+EntriesListDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/402/trunk/src/main/java/dao/EntriesListDao.java
+END
+ResetPasswordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/324/trunk/src/main/java/dao/ResetPasswordDao.java
+END
+RegisterFormDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/385/trunk/src/main/java/dao/RegisterFormDao.java
+END
+ChangePasswordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/324/trunk/src/main/java/dao/ChangePasswordDao.java
+END
+EditTitleEntryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/413/trunk/src/main/java/dao/EditTitleEntryDao.java
+END
+NewEntryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/405/trunk/src/main/java/dao/NewEntryDao.java
+END
+NewEntryImageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/405/trunk/src/main/java/dao/NewEntryImageDao.java
+END
+NewEntryTextDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/413/trunk/src/main/java/dao/NewEntryTextDao.java
+END

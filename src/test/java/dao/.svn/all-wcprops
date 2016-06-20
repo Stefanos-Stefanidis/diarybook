@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/410/trunk/src/test/java/dao
+END
+NewEntryDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/406/trunk/src/test/java/dao/NewEntryDaoTest.java
+END
+CheckIfFileExistsDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/402/trunk/src/test/java/dao/CheckIfFileExistsDaoTest.java
+END
+NewEntryImageDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/406/trunk/src/test/java/dao/NewEntryImageDaoTest.java
+END
+NewEntryTextDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/406/trunk/src/test/java/dao/NewEntryTextDaoTest.java
+END
+EntryDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/406/trunk/src/test/java/dao/EntryDaoTest.java
+END
+FilesDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/406/trunk/src/test/java/dao/FilesDaoTest.java
+END
+NewEntryVideoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/406/trunk/src/test/java/dao/NewEntryVideoDaoTest.java
+END
+EntriesListDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/406/trunk/src/test/java/dao/EntriesListDaoTest.java
+END
+PersonalGoalTxtDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/410/trunk/src/test/java/dao/PersonalGoalTxtDaoTest.java
+END
